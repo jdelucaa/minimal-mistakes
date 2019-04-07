@@ -1,11 +1,11 @@
 ---
-title: "Test Post"
-date: 2017-10-13
+title: "Box shooter game made with Unity - WebGL build"
+date: 2019-04-07
 unity_dir: box_shooter
 categories:
-  - General
+  - Game Development
 tags:
-  - test
+  - game
+  - unity
+  - webgl
 ---
-
-This is a test post.
