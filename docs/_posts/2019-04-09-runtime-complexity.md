@@ -1,12 +1,11 @@
 ---
-title: "Post: Standard"
-excerpt_separator: "<!--more-->"
+title: "Runtime Complexity - Part 1"
 categories:
-  - Post Formats
+  - Runtime Complexity
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Algorithms
+  - Performance
+  - Technical Interviews
 ---
 
 During a technical interview or even while playing with code, you may (have to) come up with different solutions to the same problem. You may change your solution to make it easier to code or just to make it look better. However, there is another way of comparing all these different solutions or algorithms that is much more concrete, that's *Runtime Complexity*.
