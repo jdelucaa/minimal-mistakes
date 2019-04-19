@@ -63,7 +63,7 @@ To build a stair like the example above, our input 's' has to be 4 and as we can
 
 There are other runtime that exist:
 
-![](/assets/images/alg-tab.jpg)
+![](../assets/images/alg-tab.jpg)
 
 ### Constant time (1):
 No matter what input we give, it's always going to take the same amount of time to execute the algorithm.
