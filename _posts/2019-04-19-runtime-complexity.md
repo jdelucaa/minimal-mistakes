@@ -1,5 +1,6 @@
 ---
 title: "Runtime Complexity - Part 1"
+date: 2019-04-19
 categories:
   - Runtime Complexity
 tags:
